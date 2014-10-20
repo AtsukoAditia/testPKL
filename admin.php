@@ -3,7 +3,7 @@
 <head>
 	<title>Halaman Admin</title>
 </head>
-<body>
+<body bgcolor="red">
 <table>
 	<tr>
 		<td></td>
