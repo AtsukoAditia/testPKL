@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Master Adit</title>
+	<title>Master singgih</title>
 </head>
 <body>
-Master lu gue bantai
+master lo gua bantai balik dit
 </body>
 </html>
